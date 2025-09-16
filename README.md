@@ -2,9 +2,9 @@
 
 **Fullstack Software Engineer (Specialized in Backend Systems)**  
 
-📧 Email: your.email@example.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/theexcelrobin)  
-🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/theexcelrobin)  
+📧 Email: excellentblog1@gmail.com
+🔗 GitHub: [github.com/theexcelrobin](https://github.com/theexcelrobin)
+🔗 KingsChat: [kingschat.online/user/excelrobin](https://kingschat.online/user/excelrobin)
 
 ---
 
