@@ -1,16 +1,60 @@
-## Hi there 👋
+# Excellent Robinson  
 
-<!--
-**theexcelrobin/theexcelrobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Software Engineer (Specialized in Backend Systems)**  
 
-Here are some ideas to get you started:
+📧 Email: your.email@example.com  
+🔗 GitHub: [github.com/yourusername](https://github.com/theexcelrobin)  
+🔗 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/theexcelrobin)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Languages & Frameworks:** Golang, Flutter, SQL, Python, TypeScript, C++, Rust  
+
+---
+
+## 🚀 Projects
+
+### 📌 Project Amply – Windows-based Scripture AI  
+- **Description:** AI-powered system for detecting scriptures in live speech.  
+- **Tech Stack:** Python (Tkinter)  
+
+### 📌 Project Amply Mobile – Android-based Scripture AI  
+- **Description:** Paired with Amply-Windows for cross-platform scripture detection.  
+- **Tech Stack:** Flutter (Dart)  
+
+### 📌 Forex MT5 API Service  
+- **Description:** API for automated Forex trading with MetaTrader 5.  
+- **Tech Stack:** Golang & Python  
+
+### 📌 Forex MT5 Telegram Notifier  
+- **Description:** Automated Telegram notifications for MT5 trading activity.  
+- **Tech Stack:** Golang & Python  
+
+### 📌 Project Binb – Blockchain Subordinate Backend  
+- **Description:** Backend system for blockchain integration.  
+- **Tech Stack:** C++ & Python  
+
+### 📌 Project Befi – Blockchain Backend (EVM)  
+- **Description:** Backend blockchain project deployed on EVM chain.  
+- **Tech Stack:** Python  
+
+### 📌 Project Zefi – Blockchain Backend (Solana)  
+- **Description:** Backend blockchain project deployed on Solana chain.  
+- **Tech Stack:** Rust  
+
+### 📌 Project Gefi – Cross-Chain Backend (EVM + Solana)  
+- **Description:** Unified backend for EVM & Solana chains.  
+- **Tech Stack:** Golang  
+
+### 📌 Blockchain Onramp & Offramp System  
+- **Description:** Fiat-to-crypto and crypto-to-fiat payment system.  
+- **Tech Stack:** Golang & Flutter  
+
+### 📌 Hospitality Management System – Kodee Technologies  
+- **Description:** End-to-end solution for hotel & hospitality business operations.  
+- **Tech Stack:** TypeScript (NestJS – Backend)  
+
+
+## 💼 Professional Summary
+Fullstack Software Engineer with deep expertise in backend systems and a track record of building cross-platform AI, blockchain, and financial technology solutions. Skilled at designing scalable APIs, integrating blockchain, and deploying cross-chain systems.
