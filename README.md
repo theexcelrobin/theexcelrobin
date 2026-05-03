@@ -9,7 +9,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages & Frameworks:** Golang, Flutter, SQL, Python, TypeScript, C++, Rust  
+- **Languages & Frameworks:** Golang, Kotlin, Java, Flutter, SQL, Python, TypeScript, C++, Rust  
 
 ---
 
